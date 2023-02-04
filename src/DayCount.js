@@ -5,7 +5,7 @@ import axios from 'axios'
 import Room from './Room'
 import './DayCount.css'
 
-const BACKEND_URL = 'http://localhost:3001'
+const BACKEND_URL = 'https://countapp-backend.onrender.com'
 
 const DayCount = () => {
     const [room,setRoom] = useState([])
