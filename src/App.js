@@ -4,7 +4,7 @@ import {useState,useEffect} from 'react'
 import axios from 'axios'
 import Day from './Day';
 
-const BACKEND_URL = 'http://localhost:3001'
+const BACKEND_URL = 'https://countapp-backend.onrender.com'
 
 function App() {
   const [days,setDays] = useState([]);
