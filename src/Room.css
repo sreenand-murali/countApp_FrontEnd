@@ -1,0 +1,22 @@
+.main2{
+    width: 70px;
+}
+.rooms{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: 0px;
+    border-radius: 10px;
+    
+}
+.rooms:hover{
+    background-color: rgb(35, 158, 117);
+}
+
+
+.red{
+    background-color: rgba(240, 61, 61, 0.945);
+}
+.green{
+    background-color: rgb(82, 252, 153);
+}
